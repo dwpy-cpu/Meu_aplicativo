@@ -5,6 +5,7 @@ const interesse = "Criar playlists";
 const aprender = "Tocar guitarra";
 const area = "Tecnologia";
 const message = `Eu estou fazendo curso de programação!`;
+const idade = 25;
 
 console.log("====================");
 console.log("   Meu Aplicativo   ")
@@ -15,3 +16,4 @@ console.log(`interesse: ${interesse}`);
 console.log(`Quero aprender: ${aprender}`);
 console.log(`Área de interesse: ${area}`);
 console.log(message);
+console.log(`Idade: ${idade}`);
